@@ -1,2 +1,4 @@
 # CONCEPTOS
+ESTO SON LOS CONCEPTOS
 
+![FOTO](img/foto1.jpg)
