@@ -1,2 +1,2 @@
 # INTRODUCCIÓN
-[ALO](/img/alo2.jpg)
+![ALO](/img/alo2.jpg)
